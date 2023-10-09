@@ -695,7 +695,7 @@ body {
   .qualification__content,
   .services__wrapper,
   .project__wrapper {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
   .contact__wrapper {
     display: flex;
