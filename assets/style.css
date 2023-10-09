@@ -435,7 +435,7 @@ body {
   box-shadow: var(--box-shadow);
   padding: 5rem 3.5rem;
   width: 100%;
-  max-width: 30rem;
+  /* max-width: 30rem; */
   justify-self: center;
   transition: var(--transition);
 }
@@ -695,7 +695,7 @@ body {
   .qualification__content,
   .services__wrapper,
   .project__wrapper {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
   .contact__wrapper {
     display: flex;
